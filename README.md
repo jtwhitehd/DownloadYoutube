@@ -7,14 +7,12 @@ A simple and fast utility for downloading Youtube videos.
 Utilizes VideoLibrary (libvideo) NuGet package;
   https://www.nuget.org/packages/VideoLibrary
   
-/*
- * TODO
- *  - provide/populate documentation
- *  - provide error handling
- *  - provide GUI (with WindowsForms)
- *  - optimize and refactor
- *  - allow for user specified quality
- *  - allow for user specified file name
- *  - allow for user specified download directory
- *  - allow for bulk downloads
- */
+
+Future features/alterations planned:
+ *  provide/populate documentation
+ *  provide error handling
+ *  provide GUI (with WindowsForms) for Windows 10 platforms.
+ *  optimize and refactor
+ *  allow for user specified file name
+ *  allow for user specified download directory
+ *  allow for bulk downloads
